@@ -1,2 +1,2 @@
 # sfnx
-A futuristic password manager written in Rust
+A futuristic terminal-based password manager written in Rust
